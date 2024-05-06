@@ -1,5 +1,12 @@
+"""This file is cool"""
+
 def disgustingcode():
-    import random, os
+    """
+    Blablabla
+    :return:
+    """
+
+    import random
 
     # This function prints out a random number of stars to the console
     for _ in range(random.randint(1, 10)):
